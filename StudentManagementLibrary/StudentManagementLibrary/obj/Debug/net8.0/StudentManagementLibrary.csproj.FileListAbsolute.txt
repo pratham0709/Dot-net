@@ -1,0 +1,12 @@
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\bin\Debug\net8.0\StudentManagementLibrary.deps.json
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\bin\Debug\net8.0\StudentManagementLibrary.dll
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\bin\Debug\net8.0\StudentManagementLibrary.pdb
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.csproj.AssemblyReference.cache
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.AssemblyInfoInputs.cache
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.AssemblyInfo.cs
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.csproj.CoreCompileInputs.cache
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.dll
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\refint\StudentManagementLibrary.dll
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\StudentManagementLibrary.pdb
+C:\Users\prath\OneDrive\Desktop\Dreamwares\StudentManagementLibrary\StudentManagementLibrary\obj\Debug\net8.0\ref\StudentManagementLibrary.dll
